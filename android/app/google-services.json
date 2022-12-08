@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "985580483149",
+    "project_id": "appatividadescomplementares",
+    "storage_bucket": "appatividadescomplementares.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:985580483149:android:7724d3416611ed89566204",
+        "android_client_info": {
+          "package_name": "com.mycompany.appatividadescomplementares"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "985580483149-okn5q4sq7iru3m6cks9sscgknu7p80po.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mycompany.appatividadescomplementares",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "985580483149-r6g000fu5bauvs79rtkm0mkkk7mts0vp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOh8-mxZF_r1EW_T85wxvmfiCroxk_n74"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "985580483149-r6g000fu5bauvs79rtkm0mkkk7mts0vp.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "985580483149-jkbl3bnjk120n7rqnomo5i6mqil62stj.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.appatividadescomplementares"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:985580483149:android:b4939f8bfac422aa566204",
+        "android_client_info": {
+          "package_name": "com.mycompany.pacatividadecomplementar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "985580483149-askgvts4g4olojdgs5v4rkjva7mbg8jo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mycompany.pacatividadecomplementar",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "985580483149-r6g000fu5bauvs79rtkm0mkkk7mts0vp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOh8-mxZF_r1EW_T85wxvmfiCroxk_n74"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "985580483149-r6g000fu5bauvs79rtkm0mkkk7mts0vp.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "985580483149-jkbl3bnjk120n7rqnomo5i6mqil62stj.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.appatividadescomplementares"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
